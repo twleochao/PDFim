@@ -38,6 +38,7 @@ python main.py path/to/your/file.pdf
 * `:q` — Quit
 * `yy` — Yank current line
 * Visual mode support (line, char)
+* type ':help' for more 
 
 ## Dependencies
 
