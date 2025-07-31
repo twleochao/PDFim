@@ -12,7 +12,7 @@ A terminal-based PDF viewer with Vim-style navigation. Designed for researchers,
 
 ## Demo
 
-![screenshot](./screenshot.png)
+![screenshot](media/demo.png)
 
 ## Installation
 
