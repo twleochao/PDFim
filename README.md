@@ -10,6 +10,10 @@ A terminal-based PDF viewer with Vim-style navigation. Designed for researchers,
 * Accurate text ordering: title, authors, then left column, then right column
 * Search, jump, and page commands
 
+## Demo
+
+![screenshot](./screenshot.png)
+
 ## Installation
 
 Clone the repository:
@@ -39,13 +43,6 @@ python main.py path/to/your/file.pdf
 
 * PyMuPDF (`pip install PyMuPDF`)
 * `curses` (built-in on Unix, install `windows-curses` for Windows)
-
-## Roadmap
-
-* [ ] Citation export
-* [ ] Mouse support
-* [ ] Jump-to-section via heading detection
-* [ ] Customizable themes
 
 ## License
 
