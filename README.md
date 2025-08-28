@@ -19,7 +19,7 @@ A terminal-based PDF viewer with Vim-style navigation. Designed for researchers,
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdfvim.git
+git clone https://github.com/twleochao/pdfvim.git
 cd pdfvim
 pip install -r requirements.txt
 ```
