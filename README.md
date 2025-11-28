@@ -1,4 +1,4 @@
-# PDFVim
+# PDFim
 
 A terminal-based PDF viewer with Vim-style navigation. Designed for researchers, power users, and keyboard users.
 
@@ -19,8 +19,8 @@ A terminal-based PDF viewer with Vim-style navigation. Designed for researchers,
 Clone the repository:
 
 ```bash
-git clone https://github.com/twleochao/pdfvim.git
-cd pdfvim
+git clone https://github.com/twleochao/pdfim.git
+cd pdfim
 pip install -r requirements.txt
 ```
 
